@@ -13,6 +13,8 @@ body {
 #container {
 
 }
+//This is a comment on the Head Section. I hope it makes sense and shows in the new merge
+
 header {
 	display: flex;
 	flex-direction: row;
